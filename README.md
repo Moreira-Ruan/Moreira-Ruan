@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Ruan Moreira 👋
 
-Engenheiro de Software focado no desenvolvimento de soluções escaláveis e eficientes. Recentemente, desenvolvi o **Qota**, uma plataforma SaaS para gestão de bens compartilhados com arquitetura de microsserviços.
+Engenheiro de Software focado no desenvolvimento de soluções escaláveis e eficientes. Desenvolvi o **Qota**, uma plataforma SaaS para gestão de bens compartilhados, utilizando uma arquitetura robusta e moderna.
 
 - 🎓 **Bacharel em Engenharia de Software** pela UniEvangélica.
-- 🚀 **Full Stack Web Developer** com foco em ecossistema JavaScript/TypeScript.
-- 🛠️ Experiência com React, Node.js, Python (OCR) e otimização de sistemas.
+- 🚀 **Full Stack Web Developer** Júnior.
+- 🏗️ Experiência com **Arquitetura Monolítica Modular** e Microsserviços de Apoio.
 - 📍 Pirenópolis - GO.
 
 ---
@@ -20,26 +20,33 @@ Engenheiro de Software focado no desenvolvimento de soluções escaláveis e efi
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Frontend & Backend**
+**Full Stack Core (Node.js & React)**
 <div style="display: inline-block">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 </div>
 
 <br>
 
-**Bancos de Dados & Ferramentas**
+**Microsserviço de Apoio & Data**
 <div style="display: inline-block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
 </div>
+
+---
+
+### 📂 Destaque de Projeto: Qota
+O **Qota** é um ecossistema para gestão de multipropriedade. 
+- **Backend:** Monolítico Modular em Node.js (TypeScript) focado em regras de negócio e contratos.
+- **Microsserviço Python:** Especializado em OCR e validação de documentos usando Tesseract e OpenCV.
+- **Frontend:** SPA moderna em React/Vite.
+- **Comunicação:** API RESTful via requisições HTTP.
 
 ---
 
@@ -54,8 +61,5 @@ Engenheiro de Software focado no desenvolvimento de soluções escaláveis e efi
   </a>
   <a href="mailto:ruanmoreira.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://Discordapp.com/users/1170166933061111950" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
