@@ -11,10 +11,10 @@ Engenheiro de Software focado no desenvolvimento de soluções escaláveis e efi
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira-Ruan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-Ruan&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira-Ruan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-Ruan&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 
 ---
 
