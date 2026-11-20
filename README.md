@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/gdr-horizontal-dark.png" alt="GDR Tech" width="240" />
+<a href="https://gdrtech.com.br" target="_blank">
+  <img src="./assets/gdr-horizontal-dark.png" alt="GDR Tech" width="240" />
+</a>
 
 # Ruan Moreira
 
@@ -9,10 +11,13 @@
 Desenvolvendo **produtos digitais, aplicações web, automações e experiências orientadas a resultado**.
 
 <p>
-  <a href="https://www.linkedin.com/in/ruan-moreira-3948a91a7">
+  <a href="https://gdrtech.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/GDR_Tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ruan-moreira-3948a91a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ruanmoreira.dev">
+  <a href="https://www.instagram.com/ruanmoreira.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:ruanmoreira.dev@gmail.com">
@@ -26,7 +31,7 @@ Desenvolvendo **produtos digitais, aplicações web, automações e experiência
 
 ## 👋 Sobre mim
 
-Sou **Engenheiro de Software** e cofundador da **GDR Tech**, empresa focada no desenvolvimento de soluções digitais para negócios.
+Sou **Engenheiro de Software** e cofundador da [**GDR Tech**](https://gdrtech.com.br), empresa focada no desenvolvimento de soluções digitais para negócios.
 
 Atuo na criação de produtos que unem **engenharia de software, experiência do usuário, automação e objetivos de negócio**.
 
@@ -176,6 +181,9 @@ Nosso objetivo é desenvolver soluções que combinem:
 
 **tecnologia + experiência do usuário + estratégia digital + resultado de negócio**
 
+🌐 **Conheça nosso site:**  
+https://gdrtech.com.br
+
 ---
 
 # 🛠️ Tecnologias & Ferramentas
@@ -245,10 +253,13 @@ UniEvangélica
 Desenvolvimento web, produtos digitais, automações e soluções de atendimento.
 
 <p>
-  <a href="https://www.linkedin.com/in/ruan-moreira-3948a91a7">
+  <a href="https://gdrtech.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/GDR_Tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ruan-moreira-3948a91a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ruanmoreira.dev">
+  <a href="https://www.instagram.com/ruanmoreira.dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:ruanmoreira.dev@gmail.com">
