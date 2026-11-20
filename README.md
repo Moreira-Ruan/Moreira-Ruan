@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gdr-horizontal-dark.png" alt="GDR Tech" width="120" />
+<img src="./assets/gdr-horizontal-dark.png" alt="GDR Tech" width="240" />
 
 # Ruan Moreira
 
